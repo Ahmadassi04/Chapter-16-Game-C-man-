@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1705852591 source:c:\users\hp\desktop\c++ challenge\chapter 16 (game)\c++man (hangman)\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Random.h"
+
+1705800825 c:\users\hp\desktop\c++ challenge\chapter 16 (game)\c++man (hangman)\random.h
+	<chrono>
+	<random>
+
